@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\PC\source\repos\oopCor\oopCor\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  oopCor.vcxproj -> C:\Users\PC\source\repos\oopCor\x64\Debug\oopCor.exe
